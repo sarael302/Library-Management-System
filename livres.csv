@@ -1,0 +1,31 @@
+Id;Titre;Auteur;AnneePublication;Genre;Disponible
+1;To Kill a Mockingbird;Harper Lee;1960;Fiction;true
+2;1984;George Orwell;1949;Dystopian;true
+3;The Great Gatsby;F. Scott Fitzgerald;1925;Fiction;true
+4;The Hobbit;J.R.R. Tolkien;1937;Adventure;false
+5;Brave New World;Aldous Huxley;1932;Science Fiction;true
+6;ألف ليلة وليلة;-;1400;Fiction;true
+7;اللص والكلاب;نجيب محفوظ;1961;أدب مصري;true
+8;Dune;Frank Herbert;1965;Science Fiction;true
+9;Pride and Prejudice;Jane Austen;1813;Romance;true
+10;The Catcher in the Rye;J.D. Salinger;1951;Fiction;true
+11;War and Peace;Leo Tolstoy;1869;Historical;true
+12;Crime and Punishment;Fyodor Dostoevsky;1866;Psychological;true
+13;The Alchemist;Paulo Coelho;1988;Philosophical;true
+14;Moby-Dick;Herman Melville;1851;Adventure;true
+15;Frankenstein;Mary Shelley;1818;Horror;true
+16;Les Misérables;Victor Hugo;1862;Historical;true
+17;Animal Farm;George Orwell;1945;Political Satire;true
+18;Dracula;Bram Stoker;1897;Horror;true
+19;The Kite Runner;Khaled Hosseini;2003;Fiction;true
+20;Wuthering Heights;Emily Brontë;1847;Gothic Fiction;true
+21;The Lord of the Rings;J.R.R. Tolkien;1954;Fantasy;true
+22;Harry Potter and the Sorcerer's Stone;J.K. Rowling;1997;Fantasy;true
+23;Don Quixote;Miguel de Cervantes;1605;Classic;true
+24;The Road;Cormac McCarthy;2006;Dystopian;true
+25;The Divine Comedy;Dante Alighieri;1320;Epic Poetry;true
+26;The Picture of Dorian Gray;Oscar Wilde;1890;Philosophical;true
+27;One Hundred Years of Solitude;Gabriel García Márquez;1967;Magical Realism;true
+28;A Tale of Two Cities;Charles Dickens;1859;Historical;true
+29;The Brothers Karamazov;Fyodor Dostoevsky;1880;Philosophical;true
+30;Jane Eyre;Charlotte Brontë;1847;Gothic Fiction;true

@@ -1,0 +1,3 @@
+Id;UtilisateurId;LivreId;DateEmprunt;DateRetourPrevu
+1;2;15;2025-01-08;2025-01-18
+2;1;4;2025-01-08;2025-01-18
